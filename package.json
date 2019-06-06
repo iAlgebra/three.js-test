@@ -1,0 +1,11 @@
+{
+  "name": "three-js-test",
+  "version": "0.0.1",
+  "description": "Starting with three.js",
+  "main": "index.js",
+  "author": "Maria Gabriela Barrios Cantera",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.105.2"
+  }
+}
